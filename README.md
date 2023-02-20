@@ -7,3 +7,5 @@
  A classic game of Snake with a twist. Every time you score a new head takes over and you switch directions.
  
  #### Play the game here: https://dudeman12.itch.io/snake-heads
+ 
+ Made with Unity and C#
